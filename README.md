@@ -1,5 +1,5 @@
 # Predictive-Model-Coca-Cola
-Predictive Model of Soft Drink Marketing - a recruitment process project and for learning purposes
+Predictive Model of Soft Drink Marketing - a volunteer POC project and for learning purposes for a marketing business
 
 Purpose of this predictive model was to predict the amount of Coca-Cola cans sold based on competitors (soft-drink companies) spending on advertising on different platforms (tv, social media, radio, etc). The model was validated against real data. 
 
